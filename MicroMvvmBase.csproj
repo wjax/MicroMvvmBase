@@ -4,14 +4,10 @@
     <TargetFrameworks>netstandard2.0;net5.0</TargetFrameworks>
     <Authors>Jesus Alvarez</Authors>
     <Company>29QBits</Company>
-    <Description>Super light mvvm helper classes</Description>
+    <Description>Super light (micro) mvvm helper classes</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>1.0.2</Version>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Base\" />
-  </ItemGroup>
 
 </Project>

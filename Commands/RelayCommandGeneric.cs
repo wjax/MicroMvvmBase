@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace MvvmBase.Commands
+namespace MicroMvvmBase.Commands
 {
     public class RelayCommandGeneric<T> : ICommand
     {

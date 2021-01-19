@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Runtime.Serialization;
 using System.Runtime.InteropServices;
 
-namespace MvvmBase.Collections
+namespace MicroMvvmBase.Collections
 {
     [Serializable]
     public class ObservableDictionary<TKey, TValue> :

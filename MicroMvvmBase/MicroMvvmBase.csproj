@@ -7,7 +7,8 @@
     <Description>Super light (micro) mvvm helper classes</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.0.3</Version>
+    <Version>1.1.0</Version>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 
 </Project>

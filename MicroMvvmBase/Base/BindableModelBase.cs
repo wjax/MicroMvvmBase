@@ -12,7 +12,7 @@ namespace MicroMvvmBase.Base
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
-        public virtual void NotifyPropertyChanged([CallerMemberName] String propertyName = null)
+        public virtual void NotifyPropertyChanged([CallerMemberName] string propertyName = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
